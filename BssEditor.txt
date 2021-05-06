@@ -1,0 +1,7 @@
+1.- Please Download:
+
+https://drive.google.com/file/d/1u3Z__VnRG8XlYP8yw1yUmxcBIPATS5gc/view?usp=sharing
+
+2.- Unzip it
+
+3.- Use the .exe file as text editor for output.json
